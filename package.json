@@ -1,0 +1,14 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "A simple linked list implementation",
+  "main": "linked-list.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
